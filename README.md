@@ -1,5 +1,2 @@
 # Just-CREEPER
-ummmm......
-ummmmm.......
-nothing there
-at least now
+i want to use it as my drive
