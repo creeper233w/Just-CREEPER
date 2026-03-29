@@ -1,0 +1,1 @@
+There's a Minecraft mod called [Etched](https://modrinth.com/mod/etched) which allows you to play music in game via direct links, but it's not an easy way to obtain these links, sooooooooooooo I chose GitHub.
