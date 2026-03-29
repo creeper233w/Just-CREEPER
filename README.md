@@ -1,6 +1,6 @@
 # Just-CREEPER
 
-GitHub only allows files under 100mb
+A repo in practicing GitHub usage
 
 ## Disclaimer
 
